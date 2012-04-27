@@ -1,0 +1,13 @@
+baseurl: /
+auto: true
+server: true
+
+future: true
+pygments: true
+markdown: rdiscount
+
+rdiscount:
+  extensions: [smart]
+
+exclude: ["README.md"]
+include: ["42"]
