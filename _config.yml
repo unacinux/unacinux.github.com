@@ -9,5 +9,5 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 
-exclude: ["README.md"]
+exclude: ["README.md", "TODO.md"]
 include: ["42"]
