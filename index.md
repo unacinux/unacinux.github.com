@@ -12,21 +12,21 @@ title: Unacinux
   {% capture what %}
     {% include what.md %}
   {% endcapture %}
-  {{ what | markdownify }}
+  {{ what | unindent | markdownify }}
   </div>
 
   <div class="span4">
   {% capture how %}
     {% include how.md %}
   {% endcapture %}
-  {{ how | markdownify }}
+  {{ how | unindent | markdownify }}
   </div>
 
   <div class="span4">
   {% capture  why %}
     {% include why.md %}
   {% endcapture %}
-  {{ why | markdownify }}
+  {{ why | unindent | markdownify }}
   <blockquote>
    <p>La libertad no es poder elegir entre unas pocas opciones impuestas, sino tener el control de tu propia vida. La libertad no es elegir quien será tu amo, es no tener amo.</a>
    <small>Richard Stallman</small>
