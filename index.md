@@ -9,8 +9,8 @@ title: unacinux
 
 <div class="row">
   <div class="span4">
-  {% capture what %} {% include what.md %} {% endcapture %}
-  {{ what | unindent | markdownify }}
+  {% capture who %} {% include who.md %} {% endcapture %}
+  {{ who | unindent | markdownify }}
   </div>
 
   <div class="span4">
