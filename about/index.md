@@ -25,7 +25,7 @@ Por ello nuestro lema es:
 
 ### Junta Directiva
 
-![presidente unacinux](../images/arnold.png)
+![Arnold Fernández Rivas](../images/arnold.png)
 
 *Arnold Fernández Rivas*
 FIARN
