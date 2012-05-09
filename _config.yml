@@ -6,6 +6,8 @@ future: true
 pygments: true
 markdown: rdiscount
 
+permalink: /blog/:title
+
 rdiscount:
   extensions: [smart]
 
