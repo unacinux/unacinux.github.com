@@ -18,9 +18,9 @@ description: pagina web de Unacinux
         <li>Y lo que es más importante, nos divertimos.</li>
         </ul></p>
       </div>
-    <h2>Proyectos</h2>
+    <h3>Proyectos</h3>
       <div class="texto">
-        <p>Actualmente estamos trabajando en los siguientes proyectos:</p>
+        <p>Puede ver e involucrarte en los proyectos en los que estamos trabajando actualmente en: <a href="/projects">Nuestro Proyectos</a></p>
       </div>
     <h2>¿Cómo lo hacemos?</h2>
       <div class="texto">
