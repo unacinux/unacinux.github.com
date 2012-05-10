@@ -28,3 +28,6 @@ google_analytics:
 
 github:
   username: unacinux
+
+disqus:
+  id: unacinux

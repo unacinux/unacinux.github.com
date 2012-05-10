@@ -14,3 +14,7 @@ blockquote {
   /* font-style: italic; */
 }
 
+header h1 {
+  text-align: center;
+  font-family: Vollkorn;
+}
