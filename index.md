@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Unacinux
+title: Unacinux Homepage
+description: pagina web de Unacinux
 ---
 
 <br/>
