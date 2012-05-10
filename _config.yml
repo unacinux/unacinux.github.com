@@ -13,3 +13,8 @@ rdiscount:
 
 exclude: ["README.md", "TODO.md"]
 include: ["42"]
+
+# Configuration for ehancements
+
+google_analytics:
+  account: UA-31535065-1
